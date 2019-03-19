@@ -1,0 +1,13 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "PoC for Chromium over-enforcing CSP img-src 'self' header",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "opn": "^5.5.0"
+  }
+}
